@@ -1,4 +1,4 @@
-name: My First Workflow
+name: Parallel Workflow
 
 on:
   workflow_dispatch:
